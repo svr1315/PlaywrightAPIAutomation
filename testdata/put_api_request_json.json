@@ -1,0 +1,11 @@
+{
+            "firstname": "testa",
+            "lastname": "testb",
+            "totalprice": 456,
+            "depositpaid": false,
+            "bookingdates": {
+                "checkin": "2018-01-01",
+                "checkout": "2020-01-01"
+            },
+            "additionalneeds": "lunch"
+}
